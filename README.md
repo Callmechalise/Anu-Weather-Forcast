@@ -1,4 +1,5 @@
-Anu Weather App
+Anu Weather App:
+
 Anu Weather App is a simple graphical user interface (GUI) application built using Python's Tkinter library that allows users to check the current weather conditions of any city. The app uses the OpenWeatherMap API to fetch weather data and displays it along with the local time of the queried city.
 
 Features
@@ -6,9 +7,9 @@ Search for weather conditions by city name.
 Displays current temperature, weather condition, wind speed, humidity, pressure, and a brief description.
 Shows local time for the specified city.
 User-friendly interface with image icons.
+
 Requirements
 Before running the application, ensure you have the following Python packages installed:
-
 tkinter (usually included with Python)
 requests
 geopy
@@ -44,7 +45,8 @@ Enter a city name in the search box and click the search icon.
 The current weather information and local time will be displayed.
 
 Screenshots
-![Uploading Screenshot (30).png…]()
+![Screenshot (30)](https://github.com/user-attachments/assets/0b87f21d-ab22-49d6-aea4-8e6be9e3e319)
+
 ![Screenshot (31)](https://github.com/user-attachments/assets/57de7e5d-72f9-4292-bab5-e859cfb8e703)
 
 
