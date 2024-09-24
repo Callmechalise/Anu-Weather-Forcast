@@ -51,10 +51,10 @@ def weather():
         messagebox.showerror('error occured',e)
 
 #Images
-search_box=PhotoImage(file='Copy of search.png')
-search_icon=PhotoImage(file='Copy of search_icon.png')
+search_box=PhotoImage(file='search.png')
+search_icon=PhotoImage(file='search_icon.png')
 Logo = Image.open("Logo.png")
-box=PhotoImage(file='Copy of box.png')
+box=PhotoImage(file='box.png')
 
 #Search box
 myimage = Label(win, image=search_box)
