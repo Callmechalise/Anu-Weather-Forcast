@@ -70,7 +70,7 @@ myimage_icon.place(x=400,y=34)
 #Logo
 photo= ImageTk.PhotoImage(Logo)
 label = Label(win, image=photo)
-label.place(x=150,y=100)
+label.place(x=90,y=100)
 
 #Description box
 Mybox=Label(image=box).pack(padx=5,pady=5,side='bottom')
