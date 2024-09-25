@@ -47,10 +47,9 @@ Enter a city name in the search box and click the search icon.
 The current weather information and local time will be displayed.
 
 **Screenshots**:
-![Screenshot (34)](https://github.com/user-attachments/assets/51e84f47-f5f9-4bf4-9812-0bc94e6e88ed)
 ![Screenshot (33)](https://github.com/user-attachments/assets/acd0c1f9-12e0-4e6a-b95c-0a0b1356df59)
 ![Screenshot (32)](https://github.com/user-attachments/assets/db19c9de-94a1-4d1b-86a9-e6cdc1682a43)
-
+![Screenshot (34)](https://github.com/user-attachments/assets/51e84f47-f5f9-4bf4-9812-0bc94e6e88ed)
 
 
 **Troubleshooting**
@@ -70,4 +69,4 @@ Pillow for image handling.
 Some gui items is taken from
 https://www.youtube.com/@parvatcomputertechnology
 Checkout him
-
+There is some gui error in app too 
