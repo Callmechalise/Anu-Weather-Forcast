@@ -21,8 +21,9 @@ PIL (Pillow)
 You can install the required packages using pip:
 
 **bash**
-Copy code
-pip install requests geopy timezonefinder pytz Pillow
+Copy code**
+**pip install requests geopy timezonefinder pytz Pillow****
+
 Getting Started
 Clone the repository or download the code.
 
