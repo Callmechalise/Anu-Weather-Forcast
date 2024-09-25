@@ -69,4 +69,5 @@ Pillow for image handling.
 Some gui items is taken from
 https://www.youtube.com/@parvatcomputertechnology
 Checkout him
+
 There is some gui error in app too 
